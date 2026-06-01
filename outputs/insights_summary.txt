@@ -1,0 +1,41 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║           PRIMETRADE.AI — ANALYSIS SUMMARY                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+DATASET OVERVIEW
+  Total trades analysed : 211,218
+  Unique traders        : 32
+  Unique coins          : 246
+  Date range            : 2023-05-01 to 2025-05-01
+  Total PnL (all trades): $10,254,486.95
+  Overall win rate      : 41.12%
+
+SENTIMENT REGIME FINDINGS
+  Best avg PnL regime   : Extreme Greed ($67.8929/trade)
+  Highest win rate      : Extreme Greed (46.49%)
+  Most active regime    : Fear (61,837 trades)
+  Worst avg PnL regime  : Neutral ($34.3077/trade)
+
+TOP TRADER
+  Account    : 0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23
+  Total PnL  : $2,143,382.60
+  Win Rate   : 33.71%
+  Best Regime: Extreme Greed
+
+ACTIONABLE TRADING STRATEGY RECOMMENDATIONS
+
+  1. SENTIMENT-ADAPTIVE SIZING
+     Increase position sizes during Extreme Greed periods when
+     avg PnL is highest. Reduce exposure during Neutral
+     conditions where losses are most frequent.
+
+  2. CONTRARIAN OPPORTUNITY
+     Top contrarian traders consistently profit during Extreme Fear.
+     When the Fear & Greed Index drops below 20, consider counter-
+     trend long positions on high-liquidity coins with tight stops.
+
+  3. WIN-RATE OPTIMISATION
+     The Extreme Greed regime yields the highest win rate (46.5%).
+     Traders should increase trade frequency during this phase
+     and favour momentum strategies over mean-reversion.
