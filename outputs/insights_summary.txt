@@ -23,19 +23,3 @@ TOP TRADER
   Win Rate   : 33.71%
   Best Regime: Extreme Greed
 
-ACTIONABLE TRADING STRATEGY RECOMMENDATIONS
-
-  1. SENTIMENT-ADAPTIVE SIZING
-     Increase position sizes during Extreme Greed periods when
-     avg PnL is highest. Reduce exposure during Neutral
-     conditions where losses are most frequent.
-
-  2. CONTRARIAN OPPORTUNITY
-     Top contrarian traders consistently profit during Extreme Fear.
-     When the Fear & Greed Index drops below 20, consider counter-
-     trend long positions on high-liquidity coins with tight stops.
-
-  3. WIN-RATE OPTIMISATION
-     The Extreme Greed regime yields the highest win rate (46.5%).
-     Traders should increase trade frequency during this phase
-     and favour momentum strategies over mean-reversion.
